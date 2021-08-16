@@ -1,8 +1,8 @@
 
 main() {
   //============ Números:
-  var x = 10; //var es un comodin puede tener valor de int,double etc no recomendado usar
-  int y = 20;
+  var x  = 10; //var es un comodin puede tener valor de int,double etc no recomendado usar
+  int y  = 20;
   int? a = null;//signo de interrogacion dice que podria ser nullo asi que ahora puedo mandarlo como null 
                 //con el benefuicio de que si al final es o no entero no pasa nada y si
                 //al final es null pues tampoco pasa nada
@@ -49,12 +49,12 @@ armas.add("DragonSword");
 print(armas);
 
 //NOTA: Si quiero eliminar los duplicados puedo convertir mi List en un Set y luego de nuevo en list:
-var armasToSet = armas.toSet();
-print(armasToSet.toList());//aqui paso a ser un Set y luego ahi mismo regreso a ser un List
-                           //de esta manera al ser un Set excluyo los repetidos y luego
-                           //volvio a se run List que ya paso sin esos repetidos por eso
-                           //en est aparte solo habra 1 DragonSword en lugar de las 2 que
-                           //tena un paso antes de hacer esto.
+    var armasToSet = armas.toSet();
+    print(armasToSet.toList());//aqui paso a ser un Set y luego ahi mismo regreso a ser un List
+                               //de esta manera al ser un Set excluyo los repetidos y luego
+                               //volvio a se run List que ya paso sin esos repetidos por eso
+                               //en est aparte solo habra 1 DragonSword en lugar de las 2 que
+                               //tena un paso antes de hacer esto.
 
 //============== Sets
 Set<String> armas2 = {"Mjolnir","MasterSword","Railgun"};
