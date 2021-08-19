@@ -68,7 +68,7 @@ Map <String, dynamic> papaNugget = { //indico que las llaves son Strings y el co
                                      //puede ser lo que sea (un dynamic).
 "nombre": "Zot-Lar",
 "poder" : "Waifu Master",
-"nivel" : 400,
+"nivel" : 400000000,
 };
 print(papaNugget);
 //si quiero imprimir solo el nombre o el poder o el nivel s e imprime asi:
