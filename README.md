@@ -3,7 +3,7 @@
 
 ## _Mis practicas para finalmente y de una vez por todas entender Dart!_
 <!-- ![](assets/dart.svg)-->
-<img src="assets/dart.svg" width=100>
+<img src="assets/dart.svg" width=100> <img src="assets/visual-studio-code-1.svg" width=100> 
 
 ## Updates:
 - Mis Estudios sobre Dart y sus secretos:
