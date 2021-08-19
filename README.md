@@ -1,4 +1,6 @@
 # Estudios-Dart
+![GitHub last commit](https://img.shields.io/github/last-commit/Zot-Lar/Estudios-Dart?color=%231531bd&logo=GitHub&logoColor=white)
+
 Mis Estudios sobre Dart y sus secretos
 v2- corregi sintaxis de 02 y 03.
     Añadi el folder de zotlar Test donde voy a ir añadiendo pruebas y ejercisios que yo mismo har epar air probando mi nivel de entendiemiento sobre este lenguaje misterioso.
