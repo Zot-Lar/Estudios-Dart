@@ -4,6 +4,7 @@
 ## _Mis practicas para finalmente y de una vez por todas entender Dart!_
 <!-- ![](assets/dart.svg)-->
 <img src="assets/dart.svg" width=100>
+
 ## Updates:
 - Mis Estudios sobre Dart y sus secretos:
 **v2**- corregi sintaxis de 02 y 03.
