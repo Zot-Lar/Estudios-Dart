@@ -3,7 +3,7 @@ main() {
   //Operadores de asignación:
   int x =10; 
   
-  //??= De asignacion a valores posiblemente NUll (de seguridad)
+  //??= Da asignacion a valores posiblemente NUll (de seguridad)
   int y =1; //si le quito su valor me da error, como explico abajo eso no deberia pasar!
   y ??= 20; //asigna el valor UNICAMENTE si la variable es null. el resultado es 1 pero si
             //por algun motivo algo pasa y me iba a manda run Null ahora valdra 20 es mas
