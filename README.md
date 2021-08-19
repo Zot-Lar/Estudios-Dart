@@ -1,5 +1,5 @@
 # Estudios-Dart
-![GitHub last commit](https://img.shields.io/github/last-commit/Zot-Lar/Estudios-Dart?color=%231531bd&logo=GitHub&logoColor=white) ![GitHub top language](https://img.shields.io/github/languages/top/Zot-Lar/Estudios-Dart?color=1531bd&logo=Dart)
+![GitHub last commit](https://img.shields.io/github/last-commit/Zot-Lar/Estudios-Dart?color=%231531bd&logo=GitHub&logoColor=white) ![GitHub top language](https://img.shields.io/github/languages/top/Zot-Lar/Estudios-Dart?color=1531bd&logo=Dart) ![GitHub repo size](https://img.shields.io/github/repo-size/Zot-Lar/Estudios-Dart?color=1531bd&logo=CurseForge)
 
 Mis Estudios sobre Dart y sus secretos
 v2- corregi sintaxis de 02 y 03.
