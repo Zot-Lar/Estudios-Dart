@@ -4,10 +4,10 @@ main() {
 
  stdout.writeln("cual es tu esad?");
  int edad = int.parse(stdin.readLineSync() ?? "0") ;//parse "CONVIERTE A"
-/**[PARSE] es un convertor, en este casi antes de [parse] tengo un [int] por tanto 
+/**[PARSE] es un convertor, en este caso antes de [parse] tengo un [int] por tanto 
  * lo que aca sucede es que parse intentara convertir lo que sea que tenga en sus
  * parentesis en un [int] es decir en este caso a su valor numerico. hice esto por 
- * que antes d emeter el [parse] decia que una variable de tipo [String]("es decir el
+ * que antes de meter el [parse] decia que una variable de tipo [String]("es decir el
  * stdin.readLineSync()") no puede ser
  * asignanda a una variable de tipo [int] por eso al convertirlo a [int] mediante el uso
  * de [parse] ahora el error se elimina.
