@@ -4,6 +4,7 @@ main() {
  //Usando un Ciclo for Normal
  for (var i = 0; i < lista.length; i++) {
    print(lista[i]);//Lista en su posicion [i]
+   print("===================================");
  }
  //Usando un Ciclo for-in:
  for (String elemento in lista) {
