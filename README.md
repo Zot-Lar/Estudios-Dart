@@ -13,6 +13,7 @@
     por ejemplo en el archivo 01_test_alpha voy probando lo visto en 02 data types para ver que tanot lo comprendo hasta ahora. asi ire aladiendo archivos con ejercisios y pruebas.
 
 **NOTA**-Presionar CTRL+C en la consola para deneter algo que se esta complilando.
+
 **NOTA**-import 'dart:io'; Nos permite usar codigo para capturar información del usuario
 
 > Dare feedback mediante este Readme
