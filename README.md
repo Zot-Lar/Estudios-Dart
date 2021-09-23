@@ -22,3 +22,15 @@
 > no me hago responsable si alguien lo intenta
 > pronunciar en voz alta, estas bajo tu propio
 > riesgo.
+
+**Uso de "Parse"**:
+`int edad = int.parse(stdin.readLineSync() ?? "0");`
+ * parse "CONVIERTE A"
+ * [PARSE] es un convertor, en este caso antes de [parse] tengo un [int] por tanto 
+ * lo que aca sucede es que parse intentara convertir lo que sea que tenga en sus
+ * parentesis en un [int] es decir en este caso a su valor numerico. hice esto por 
+ * que antes de meter el [parse] decia que una variable de tipo [String]("es decir el
+ * stdin.readLineSync()") no puede ser
+ * asignanda a una variable de tipo [int] por eso al convertirlo a [int] mediante el uso
+ * de [parse] ahora el error se elimina.
+ 
