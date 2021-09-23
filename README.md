@@ -14,7 +14,9 @@
 
 **NOTA**-Presionar CTRL+C en la consola para deneter algo que se esta complilando.
 
-**NOTA**-import 'dart:io'; Nos permite usar codigo para capturar información del usuario
+**NOTA**-import 'dart:io'; Nos permite usar codigo para capturar información del usuario (permit eun estandar de entrada y otro de salida)
+
+**NOTA**-import import 'dart:math'; Contiene funciones y propiedades matematicas
 
 > Dare feedback mediante este Readme
 > A medida que progrese en mis estudios
