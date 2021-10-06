@@ -36,3 +36,12 @@
  * asignanda a una variable de tipo [int] por eso al convertirlo a [int] mediante el uso
  * de [parse] ahora el error se elimina.
  
+# Nota
+ stdout.writeln = Imprime algo en la terminal
+ stdin.readLineSync = Ingresar algo en la terminal (para que usuario ingrese datos en terminal)
+
+ ejemplo:
+ stdout.writeln("¿cual e stu nombre?");
+ String nombre = stdin.readLineSync()?? "no hay valor o respuesta";
+ stdout.writeln("tu nombre es $nombre");
+ 
