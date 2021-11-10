@@ -45,3 +45,5 @@
  String nombre = stdin.readLineSync()?? "no hay valor o respuesta";
  stdout.writeln("tu nombre es $nombre");
  
+ Queue---->Es como un ciclo for solo que se usa menos.
+ 
